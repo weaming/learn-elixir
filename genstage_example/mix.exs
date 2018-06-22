@@ -3,7 +3,7 @@ defmodule GenstateExample.MixProject do
 
   def project do
     [
-      app: :genstate_example,
+      app: :genstage_example,
       version: "0.1.0",
       elixir: "~> 1.6",
       start_permanent: Mix.env() == :prod,
